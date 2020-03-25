@@ -1,4 +1,4 @@
-# FM100
+# Farnsworth-Munsell 100 Hue Color Vision Test in javascript
 Implementation of the Farnsworth-Munsell 100 Hue Color Vision Test in javascript.
 Colour patches from X-Rite (https://www.xrite.com/hue-test).
 Uses sortable.js for block dynamics (https://github.com/SortableJS/Sortable)
